@@ -1,0 +1,11 @@
+/Users/aluno/Projects/triangulo/triangulo/bin/Debug/netcoreapp2.1/triangulo.deps.json
+/Users/aluno/Projects/triangulo/triangulo/bin/Debug/netcoreapp2.1/triangulo.runtimeconfig.json
+/Users/aluno/Projects/triangulo/triangulo/bin/Debug/netcoreapp2.1/triangulo.runtimeconfig.dev.json
+/Users/aluno/Projects/triangulo/triangulo/bin/Debug/netcoreapp2.1/triangulo.dll
+/Users/aluno/Projects/triangulo/triangulo/bin/Debug/netcoreapp2.1/triangulo.pdb
+/Users/aluno/Projects/triangulo/triangulo/obj/Debug/netcoreapp2.1/triangulo.csprojAssemblyReference.cache
+/Users/aluno/Projects/triangulo/triangulo/obj/Debug/netcoreapp2.1/triangulo.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/triangulo/triangulo/obj/Debug/netcoreapp2.1/triangulo.AssemblyInfoInputs.cache
+/Users/aluno/Projects/triangulo/triangulo/obj/Debug/netcoreapp2.1/triangulo.AssemblyInfo.cs
+/Users/aluno/Projects/triangulo/triangulo/obj/Debug/netcoreapp2.1/triangulo.dll
+/Users/aluno/Projects/triangulo/triangulo/obj/Debug/netcoreapp2.1/triangulo.pdb
