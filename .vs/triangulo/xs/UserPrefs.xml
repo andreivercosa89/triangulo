@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{8EB96549-450C-4543-8E62-59C6CCCD82F0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="triangulo/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="triangulo/TRIANGULO.cs">
     <Files>
-      <File FileName="triangulo/Program.cs" Line="1" Column="1" />
+      <File FileName="triangulo/Program.cs" Line="11" Column="13" />
+      <File FileName="triangulo/TRIANGULO.cs" Line="6" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +11,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.triangulo PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.triangulo PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
