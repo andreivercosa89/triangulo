@@ -24,7 +24,7 @@ namespace triangulo
 
             Console.WriteLine("\nDigite um valor para o lado B");
             ladoB = Int32.Parse(Console.ReadLine());
-            texto += "\nLado B: " + ladoB;
+            texto += "\nLado B: " + ladoB;//+= concatena
             Console.WriteLine("\nValor de texto: " + texto);
 
             Console.WriteLine("\nDigite um valor para o lado C");
