@@ -7,6 +7,5 @@
 
   <ItemGroup>
     <Compile Remove="EmptyClass.cs" />
-    <Compile Remove="Triangulo.cs" />
   </ItemGroup>
 </Project>
